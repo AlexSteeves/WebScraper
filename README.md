@@ -1,6 +1,9 @@
-### Welcome 
+# Welcome
+### Overview
+This project is a web scraper built with Puppeteer, leveraging headless Chrome for efficient scraping. It utilizes BrightData for proxy services to ensure smooth operation.
 
-#### This is a webscraper using Puppeteer for headless chrome scraping
-#### and BrightData for proxy. 
+### Functionality
+The scraper is designed to target Alibaba's top-selling male clothing section, extracting details such as the title and price for each of the leading garments.
 
-Currently this scrapes Alibabas top selling male clothing section, and returns the title and price of each of the top sellin garments.
+### Getting Started
+To utilize this scraper, please initiate a free trial with BrightData to enable proxy support.
